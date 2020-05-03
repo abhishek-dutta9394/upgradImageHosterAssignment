@@ -1,8 +1,8 @@
 package ImageHoster.model;
 
+import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
-import javax.persistence.*;
 
 //@Entity annotation specifies that the corresponding class is a JPA entity
 @Entity
